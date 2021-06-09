@@ -11,6 +11,5 @@ I'm software engineer, currently working [@roskomsvoboda](https://github.com/ros
   |                                           | Address                                       |
   | ------------------------------------------| ----------------------------------------------|
   | <img src="./icons/btc.png" width="20" />  | `1Eg75hne97eU55VQPMVh8BE8qHxPicLYKF`          |
-  | <img src="./icons/doge.png" width="20" /> | `DDfKsawd8Y3MZ6yvpvXw8fRDF2W1oJQhy5`          |
   | <img src="./icons/eth.png" width="20" />  | `0xc305b8cd8169448ce624df6c83462d599998e3ab`  |
   
