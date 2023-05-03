@@ -1,16 +1,14 @@
-### Hi there 👋
+### Intro
 
-<!--
-**lk-geimfari/lk-geimfari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Isaak.
 
-Here are some ideas to get you started:
+I'm a software engineer with over seven years experience in software development and a constant desire acquiring new skills and knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests are Python, JS, Erlang, Elixir, Clojure and Rust.
+
+### Reach me
+
+If you're interested in collaborating on a project or just want to say hello, 
+feel free to contact me.
+
+Email: me@isaak.dev ([PGP Key](https://keys.openpgp.org/vks/v1/by-fingerprint/43D7CF7ABD04B9178443CF8A778A732D7666A23A))
