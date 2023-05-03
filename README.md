@@ -1,5 +1,3 @@
-### Intro
-
 Hi! My name is Isaak.
 
 I'm a software engineer with over seven years experience in software development and a constant desire acquiring new skills and knowledge.
