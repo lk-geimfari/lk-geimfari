@@ -4,8 +4,6 @@ I'm a software engineer with over seven years experience in software development
 
 I maintain a blog on software development at https://isaak.dev/, where I frequently share my insights and experiences on various programming languages, frameworks, and tools, as well as offer tips and tricks to help fellow developers improve their skills and stay up-to-date with the latest industry trends.
 
-**Reach me** 
-
 If you're interested in collaborating on a project or just want to say hello, 
 feel free to contact me.
 
