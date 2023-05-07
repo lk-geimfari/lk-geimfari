@@ -4,7 +4,7 @@ Hi! My name is Isaak.
 
 I'm a software engineer with over seven years experience in software development and a constant desire acquiring new skills and knowledge.
 
-My main interests are Python, JS, Erlang, Elixir, Clojure and Rust.
+I have a blog where I sometimes write about software development: https://isaak.dev/
 
 ### Reach me
 
