@@ -4,7 +4,7 @@ Hi! My name is Isaak.
 
 I'm a software engineer with over seven years experience in software development and a constant desire acquiring new skills and knowledge.
 
-I maintain a blog on software development at https://isaak.dev/, where I frequently share my insights and experiences on various programming languages (such as Python, JS, Erlang, Elixir, Rust, and Clojure.), frameworks, and tools, as well as offer tips and tricks to help fellow developers improve their skills and stay up-to-date with the latest industry trends.
+I maintain a blog on software development at https://isaak.dev/, where I frequently share my insights and experiences on various programming languages, frameworks, and tools, as well as offer tips and tricks to help fellow developers improve their skills and stay up-to-date with the latest industry trends.
 
 ### Reach me
 
