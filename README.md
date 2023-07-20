@@ -8,7 +8,6 @@
         well as offer tips and tricks to help fellow developers improve their skills and stay up-to-date with the latest
         industry trends.
         <br/>
-        My preferred langs are python, javascript, clojure, erlang and elixir.<br/>
       </sub>
       <br>
     </td>
