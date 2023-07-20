@@ -13,7 +13,7 @@
       <br>
     </td>
     <td valign="top">
-      <img width="1000"
+      <img width="1200"
            src="https://github-readme-stats.vercel.app/api?username=lk-geimfari&show_icons=true&theme=transparent"
            valign="middle"/>
     </td>
