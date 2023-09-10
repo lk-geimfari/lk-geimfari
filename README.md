@@ -1,18 +1,8 @@
-<table class="d-table" align="center" style="vertical-align:top" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top">
-      <sub>
-        I’m a software engineer and Open Source maintainer.<br/>
-        I maintain a blog on software development at <a href="https://isaak.dev/" target="_blank">https://isaak.dev/</a>,
-        where I frequently share my insights and experiences on various programming languages, frameworks, and tools.
-        <br/>
-      </sub>
-      <br>
-    </td>
-    <td valign="top">
-      <img width="1200"
-           src="https://github-readme-stats.vercel.app/api?username=lk-geimfari&show_icons=true&theme=transparent"
-           valign="middle"/>
-    </td>
-  </tr>
-</table>
+### Hi! I'm Isaak.
+
+I’m a Software Engineer.
+
+I maintain [a blog](https://isaak.dev/) and occasionally [tweet](https://twitter.com/likid_geimfari) about topics in 
+software development. Please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/likid/) regarding job-related matters.
+
+[![pgp](https://img.shields.io/badge/PGP-0x43D7CF7ABD04B917-313131?style=flat&labelColor=545454&color=e8db51)](https://isaak.dev/keys/gpg.pub)
